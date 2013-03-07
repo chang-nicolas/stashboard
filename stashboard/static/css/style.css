@@ -519,3 +519,12 @@ img[src*="cross-circle"] {
 	background-size: 16px 16px;
 	overflow: hidden;
 }
+
+img[src*="exclamation"] {
+	width: 0;
+	height: 0;
+	padding: 16px 16px 0 0;
+	background: url("/images/icons/fugue/exclamation_2x.png");
+	background-size: 16px 16px;
+	overflow: hidden;
+}
