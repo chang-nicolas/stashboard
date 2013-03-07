@@ -179,7 +179,8 @@ nav .selected {
 }
 
 #services th {
-  font-size: 20px;
+  font-size: 18px;
+  letter-spacing:-1px;
 }
 
 #services th:first-child {
