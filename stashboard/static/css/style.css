@@ -114,15 +114,14 @@ nav li a {
 }
 
 nav li a:hover {
-    color: #F3FBEC;
-    text-decoration:underline;
+    color: #FFF;
 }
 
 nav .selected {
     background:url("../images/sub-nav-selected-arrow.png") no-repeat scroll center bottom transparent;
 }
 
-nav .selected {
+nav .selected a {
 	color: #FFF;
 }
 
