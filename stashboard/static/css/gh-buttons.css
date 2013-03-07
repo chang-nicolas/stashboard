@@ -30,6 +30,11 @@ http://github.com/necolas/css3-github-buttons
     /* IE hacks */
     zoom: 1;
     *display: inline;
+    -webkit-transition: 0.2s ease;
+	   -moz-transition: 0.2s ease;
+	    -ms-transition: 0.2s ease;
+	     -o-transition: 0.2s ease;
+	     	transition: 0.2s ease;
 }
 
 .button:hover,
