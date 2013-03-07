@@ -223,6 +223,8 @@ nav .selected {
   text-align: center;
   margin-top: 10px;
   font-size: 20px;
+  -webkit-border-radius: 2px;
+  		border-radius:2px;
 }
 
 #allgood img, #allgood p {
