@@ -510,3 +510,12 @@ img[src*="tick-circle"] {
 	background-size: 16px 16px;
 	overflow: hidden;
 }
+
+img[src*="cross-circle"] {
+	width: 0;
+	height: 0;
+	padding: 16px 16px 0 0;
+	background: url("/images/icons/fugue/cross-circle_2x.png");
+	background-size: 16px 16px;
+	overflow: hidden;
+}
