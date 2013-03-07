@@ -2,7 +2,7 @@ import os
 
 DEBUG = False
 
-SITE_NAME = "Expensify Status"
+SITE_NAME = "ExpensifyStatus"
 SITE_AUTHOR = "Expensify"
 SITE_URL = "http://status.expensify.com"
 REPORT_URL = "mailto:help@expensify.com"
