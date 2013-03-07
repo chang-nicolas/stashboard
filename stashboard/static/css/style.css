@@ -67,6 +67,8 @@ h3.date-range {color: #999; margin-top: 20px}
   background-color: #fff;
   padding: 20px;
   position: relative;
+  -webkit-border-radius:2px;
+  		border-radius:2px;
 }
 
 .dialog { display: none; }
