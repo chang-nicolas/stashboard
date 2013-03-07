@@ -2,17 +2,17 @@ import os
 
 DEBUG = False
 
-SITE_NAME = "Stashboard"
-SITE_AUTHOR = "Colonel Mustache"
-SITE_URL = "http://stashbooard.appspot.com"
-REPORT_URL = "mailto:help@stashboard.org"
+SITE_NAME = "Expensify Status"
+SITE_AUTHOR = "Expensify"
+SITE_URL = "http://status.expensify.com"
+REPORT_URL = "mailto:help@expensify.com"
 
 # Twitter update settings
 TWITTER_CONSUMER_KEY = ''
 TWITTER_CONSUMER_SECRET = ''
 TWITTER_ACCESS_TOKEN = ''
 TWITTER_ACCESS_TOKEN_SECRET = ''
-TWITTER_HANDLE = 'stashboard_status'
+TWITTER_HANDLE = 'expensify'
 
 # RSS Feed settings
 RSS_NUM_EVENTS_TO_FETCH = 50
