@@ -48,14 +48,9 @@ http://github.com/necolas/css3-github-buttons
 
 .button:active,
 .button.active {
-    border-color: #2a65a0;
-    border-bottom-color: #3884CF;
+    border-color: #00bff7;
     color: #fff;
-    background-color: #3072b3;
-    background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#3072b3), to(#599bdc));
-    background-image: -moz-linear-gradient(#3072b3, #599bdc);
-    background-image: -o-linear-gradient(#3072b3, #599bdc);
-    background-image: linear-gradient(#3072b3, #599bdc);
+    background-color: #00bff7;
 }
 
 /* overrides extra padding on button elements in Firefox */
