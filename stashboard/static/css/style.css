@@ -135,6 +135,11 @@ nav .selected {
   text-decoration: underline;
 }
 
+.data a:hover {
+  text-decoration: none;
+  color:#00a5d5;
+}
+
 .data thead {
   background: #EEEEEE;
 }
