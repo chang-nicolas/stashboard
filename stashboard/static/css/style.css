@@ -110,7 +110,7 @@ nav li a {
     font-size:15px;
     font-weight:bold;
     text-decoration:none;
-    color: #F3FBEC;
+    color: #bbeefd;
 }
 
 nav li a:hover {
@@ -121,6 +121,11 @@ nav li a:hover {
 nav .selected {
     background:url("../images/sub-nav-selected-arrow.png") no-repeat scroll center bottom transparent;
 }
+
+nav .selected {
+	color: #FFF;
+}
+
 
 /* DATA TABLES */
 .data {
@@ -168,7 +173,8 @@ nav .selected {
 
 
 .data .time { width: 20%; }
-.data .today { background: rgb(228, 228, 228); }
+.data .today { background: rgb(228, 228, 228);
+}
 .data .highlight { background: rgb(247, 247, 247); }
 .data .status, .data .date, .data .today { text-align: center; }
 .data .action { width: 5px; }
